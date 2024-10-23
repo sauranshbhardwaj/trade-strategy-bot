@@ -1,4 +1,6 @@
-# trading-bot-coindcx
+# Trading Strategy Bot by Sauransh Bhardwaj
+
+Follow the below steps to use this bot:
 
 To install dependencies:
 
